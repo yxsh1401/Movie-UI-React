@@ -6,6 +6,6 @@ An interactive movie UI with React and Tailwind CSS, fetching real-time movies f
 • Smooth Horizontal Scrolling – Use arrow controls to navigate<br>
 • Movie Titles on Hover – Titles appear only when hovered<br>
 <h2>Tech Stack</h2>
-• React – Frontend framework<br>
+• React+Vite – Frontend framework<br>
 • Tailwind CSS – Styling and layout<br> 
 • TMDB API – Fetching movie data 
